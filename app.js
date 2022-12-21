@@ -14,3 +14,8 @@ async function postData(){
 window.onload = async ()=> {
     await postData();
 }
+
+function getCats()
+{
+    
+}

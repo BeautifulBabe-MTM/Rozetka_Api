@@ -1,5 +1,4 @@
-
-const data = document.getElementById('product');
+const data = document.getElementById('product_input');
 const url = 'https://api-seller.rozetka.com.ua/items/search'
 
 async function postData(){
